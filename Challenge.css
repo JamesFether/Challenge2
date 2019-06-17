@@ -1,0 +1,45 @@
+.Block1 {
+    
+    margin: 20px;
+    padding: 10px  11px; 
+    border-radius: 5px;
+    background-color: lightgray; 
+    border-style: solid;
+    border-bottom-style: dotted; 
+    
+}
+
+.Block2 {      
+    margin: 20px;
+    padding: 10px  11px; 
+    border-radius: 5px;
+    background-color: lightgray; 
+    border-style: solid;
+    border-bottom-style: dotted; 
+}
+
+.Block3 {
+    margin: 20px;
+    padding: 10px 10px;  
+    border-radius: 5px;
+    background-color: lightgray; 
+    border-style: solid;
+    border-bottom-style: dotted; 
+}
+
+
+.Box1 {
+      width: 80%;
+      height: 50px;
+      border: black;
+      background: white;
+      padding: 15px 15px;
+      box-sizing: border-box;
+      left: 50%; 
+  
+
+      font-family: "Times New Roman", Times, serif;
+      font-size: 110%;
+      border-style: solid; 
+      
+}
